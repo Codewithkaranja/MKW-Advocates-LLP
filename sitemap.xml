@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://musyokamutindaadv.co.ke/index.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://musyokamutindaadv.co.ke/about.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Services Page -->
+  <url>
+    <loc>https://musyokamutindaadv.co.ke/services.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Blog Page -->
+  <url>
+    <loc>https://musyokamutindaadv.co.ke/blog.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Single Blog Post -->
+  <url>
+    <loc>https://musyokamutindaadv.co.ke/single-post.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Team Page -->
+  <url>
+    <loc>https://musyokamutindaadv.co.ke/team.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Individual Team Members (HIGH PRIORITY) -->
+  <url>
+    <loc>https://musyokamutindaadv.co.ke/faith-musyoka.html</loc>
+    <lastmod>2025-12-16</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://musyokamutindaadv.co.ke/naomi-mutinda.html</loc>
+    <lastmod>2025-12-16</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://musyokamutindaadv.co.ke/contact.html</loc>
+    <lastmod>2025-12-14</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
